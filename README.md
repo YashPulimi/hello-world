@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Im Yashwanth, Current master student in ub and this readme is for github demo for Deep learning early bird prep...
